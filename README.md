@@ -59,23 +59,40 @@ Demonstrar a aplicação prática de conceitos matemáticos na construção de c
 
 ---
 
+---
+
 <div align="center">
+
+### ✡️ שִׁבֹּלֶת — Shibbólet
+
+<br>
+
+<p dir="rtl" lang="he">
+
+וַיֹּאמְרוּ לוֹ אֱמָר־נָא שִׁבֹּלֶת<br>
+וַיֹּאמֶר סִבֹּלֶת וְלֹא יָכִין לְדַבֵּר כֵּן<br>
+וַיֹּאחֲזוּ אוֹתוֹ וַיִּשְׁחָטוּהוּ אֶל־מַעְבְּרוֹת הַיַּרְדֵּן<br>
+וַיִּפֹּל בָּעֵת הַהִיא מֵאֶפְרַיִם<br>
+אַרְבָּעִים וּשְׁנַיִם אָלֶף
+
+</p>
 
 <br>
 
 *“Então, diga: ‘Chibolete’.*
 
-*Se ele dissesse: ‘Sibolete’, sem conseguir pronunciar*
-*corretamente a palavra, prendiam-no e matavam-no*
+*Se ele dissesse: ‘Sibolete’, sem conseguir pronunciar*  
+*corretamente a palavra, prendiam-no e matavam-no*  
 *nos vaus do Jordão.*
 
-*Quarenta e dois mil efraimitas foram mortos*
+*Quarenta e dois mil efraimitas foram mortos*  
 *naquela ocasião.”*
 
 <br>
 
-**— Juízes 12:6**
+**— Juízes 12:6 | שופטים י״ב:ו׳**
 
 <br>
 
 </div>
+
