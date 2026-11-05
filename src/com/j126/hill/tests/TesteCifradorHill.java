@@ -34,6 +34,7 @@ public final class TesteCifradorHill {
             total++;
         }
         try {
+         
             new HillCipher(new int[][] {{1, 2}, {2, 4}});
             throw new AssertionError("Chave singular aceita.");
         } catch (IllegalArgumentException esperado) {
